@@ -12,4 +12,4 @@ To Run this template, clone this repo and update the following:
 - miDebuggerPath in .vscode/launch.json
 - command in .vscode/tasks.json
 
-and then just hit `Run without debugging` or `Ctrl+5` in VScode.
+and then just hit `Run without debugging` or `Ctrl+5` in VScode and main.exe will be built.
